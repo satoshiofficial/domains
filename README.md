@@ -1,4 +1,4 @@
-# Personal Domains Used or Registered (2005 - 2009)
+# Personal Domains Used or Registered (2005 - 2025)
 
 
 brockth1b.com (October 2005)
@@ -18,3 +18,17 @@ dollarmenudave.com (19 April 2007)
 brockusmaximus.com (19 April 2007)
 
 myspacedeux.com (19 April 2007)
+
+discussionpaper.bitcoin (29 April 2024)
+
+bitcoindiscussionpaper.com (2 May 2024)
+
+highbaroque.unstoppable (23 August 2024)
+
+highbaroque.raiin (23 August 2024)
+
+highbaroque.tball (23 August 2024)
+
+highbaroque.dfz (23 August 2024)
+
+satoshillc.u (23 December 2024)
