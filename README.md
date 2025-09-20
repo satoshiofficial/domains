@@ -21,6 +21,8 @@ myspacedeux.com (19 April 2007)
 
 discussionpaper.bitcoin (29 April 2024)
 
+- Returned 2 May 2024
+
 bitcoindiscussionpaper.com (2 May 2024)
 
 highbaroque.unstoppable (23 August 2024)
