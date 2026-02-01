@@ -34,3 +34,11 @@ highbaroque.tball (23 August 2024)
 highbaroque.dfz (23 August 2024)
 
 satoshillc.u (23 December 2024)
+
+bitcoincreator.unstoppable (21 January 2026)
+
+bitcoincreator.onchain (21 January 2026)
+
+bitcoincreator.learn (21 January 2026)
+
+bitcoincreator.web3 (21 January 2026)
